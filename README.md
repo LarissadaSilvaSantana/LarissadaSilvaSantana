@@ -18,6 +18,7 @@ Atualmente, estou estagiando na área de T.I. em uma faculdade, onde trabalho co
 <a href="https://www.linkedin.com/in/larissa-santana-335a43201" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Minhas estatistícas
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
