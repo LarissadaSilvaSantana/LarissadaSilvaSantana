@@ -1,17 +1,3 @@
-## OLÁ 👋
-
-😊 Sou Larissa Santana, atualmente estou cursando o quarto semestre de Engenharia de Software. Sou apaixonada por tecnologia design e dados, sempre buscando aprimoramento contínuo e novas aprendizagens.
-Atualmente, estou estagiando na área de T.I. em uma faculdade, onde trabalho com Moodle, desenvolvimento front-end e banco de dados. Também realizo um trabalho voluntário como desenvolvedora front-end, aplicando minhas habilidades para contribuir com projetos significativos. Sou autodidata, detalhista e focada em resultados, sempre em busca de soluções inovadoras e eficientes.
-
-
-## Como falar comigo
-
-<div>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "larissadasilva043@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/larissa-santana-335a43201" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
 <h1 align="center">Olá👋</h1>
 
 ###
@@ -20,7 +6,7 @@ Atualmente, estou estagiando na área de T.I. em uma faculdade, onde trabalho co
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+😊 Sou Larissa Santana, atualmente estou cursando o quarto semestre de Engenharia de Software. Sou apaixonada por tecnologia design e dados, sempre buscando aprimoramento contínuo e novas aprendizagens. Atualmente, estou estagiando na área de T.I. em uma faculdade, onde trabalho com Moodle, desenvolvimento front-end e banco de dados. Também realizo um trabalho voluntário como desenvolvedora front-end, aplicando minhas habilidades para contribuir com projetos significativos. Sou autodidata, detalhista e focada em resultados, sempre em busca de soluções inovadoras e eficientes.
 
 ###
 
@@ -29,8 +15,8 @@ Atualmente, estou estagiando na área de T.I. em uma faculdade, onde trabalho co
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+<a href = "larissadasilva043@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/larissa-santana-335a43201" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
 ###
