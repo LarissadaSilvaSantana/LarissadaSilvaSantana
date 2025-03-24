@@ -6,7 +6,7 @@
 
 ###
 
-😊 Sou Larissa Santana, atualmente sou aluna do quarto semestre de Engenharia de Software. Sou apaixonada por tecnologia, design e dados. Estou sempre buscando aprimoramento contínuo e novas aprendizagens. Atualmente, estou estagiando na área de T.I. em uma faculdade, onde trabalho com a ferramenta Moodle, desenvolvimento front-end e banco de dados. Também realizo um trabalho voluntário como desenvolvedora front-end, aplicando minhas habilidades para contribuir com projetos significativos. Sou autodidata, detalhista e focada em resultados, sempre em busca de soluções inovadoras e eficientes.
+😊 Sou Larissa Santana, atualmente sou aluna do quinto semestre de Engenharia de Software. Sou apaixonada por tecnologia, design e dados. Estou sempre buscando aprimoramento contínuo e novas aprendizagens.
 
 ###
 
